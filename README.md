@@ -1,4 +1,4 @@
 # Park_Han_Seok
 park han seok
-prof.
+\n prof.
 https://github.com/bjmin/bmin_comphys
